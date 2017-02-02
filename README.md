@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application replicates applications and services between Cloud Foundry targets. 
+This utility replicates applications and services between Cloud Foundry targets. 
 It does this by listening to Firehose events that result in applications being created 
 or modified and replicates these actions on the targets.
 
@@ -15,4 +15,3 @@ or modified and replicates these actions on the targets.
 
 **Anti-Goals:**
 - Replication of data services between targets
-
